@@ -56,7 +56,7 @@ ai-admission-assistant/
 ---
 
 ## 🖼 Demonstration & Media Coverage
-- 🎥 *Award Ceremony Video*: [Watch on LinkedIn](https://www.linkedin.com/posts/kazi-rahima-ahmed_avyavyavkawbavxawnavj-auxavaawnavjawlavjawnavyavyabrauxavcawnavcavjavwavc-activity-7327295627590094848-aiGg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZv_MgBrAdTo6TbYEk_MIpxSDSNMNK77v4) — Receiving the award from **Dr. Md. Sabur Khan**, Chairman, Board of Trustees, DIU & Daffodil Family  
+- 🎥 *Award Ceremony Video*: [Watch on LinkedIn](https://www.linkedin.com/posts/kazi-rahima-ahmed_avyavyavkawbavxawnavj-auxavaawnavjawlavjawnavyavyabrauxavcawnavcavjavwavc-activity-7327295627590094848-aiGg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZv_MgBrAdTo6TbYEk_MIpxSDSNMNK77v4) — Receiving the award from **Dr. Md. Sabur Khan**, Chairman, Board of Trustees, DIU & Daffodil Family, and **Mr. Shish Haider Chowdhury**, NDC, **Ministry Of ICT Bangladesh** 
 - 📰 *News Feature*: [Prothom Alo coverage](https://www.prothomalo.com/bangladesh/cfa4i5bwgs)  
 - 📸 *Photo Gallery*: [View on Facebook](https://www.facebook.com/share/p/17FSxrXNRe/)  
 
