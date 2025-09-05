@@ -76,6 +76,7 @@ A multidisciplinary student team at **Daffodil International University** combin
 ---
 
 ## 🚀 Deployment & Collaboration
+Interested in adapting this system for your institution or integrating it into your admissions workflow?
 We’re open to:  
 - 🤝 **Collaborations** with universities, ed‑tech startups, and NGOs  
 - 💼 **Paid deployments** for academic institutions and training centers  
