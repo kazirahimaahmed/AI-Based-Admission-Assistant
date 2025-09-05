@@ -71,7 +71,7 @@ ai-admission-assistant/
 ---
 
 ## 👥 Built By TEAM OSMAN
-A multidisciplinary student team at **Daffodil International University** combining expertise in *AI*, *NLP*, *data science*, and *system integration* to deliver a high‑impact automation solution.
+A multidisciplinary student team at **Daffodil International University** combining expertise in *AI*, *NLP*, *data analysis*, and *system integration* to deliver a high‑impact automation solution.
 
 ---
 
